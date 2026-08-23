@@ -6,9 +6,8 @@ import './globals.css'
 const notoSansTC = Noto_Sans_TC({ subsets: ['latin'], variable: '--font-noto-tc' })
 
 export const metadata: Metadata = {
-  title: '資訊，值得再看一眼｜媒體識讀問卷',
-  description: '大學媒體識讀前測與後測問卷',
-  generator: 'v0.app',
+  title: '大學媒體識讀前測與後測問卷',
+  // generator: 'v0.app',
   icons: {
     icon: [
       {
